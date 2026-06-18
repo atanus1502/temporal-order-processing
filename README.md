@@ -13,6 +13,9 @@ A TypeScript application demonstrating Temporal Cloud workflows with a React das
 **Workflow detail — progress timeline for a completed order**
 ![Workflow detail](screenshots/03-order-detail.png)
 
+**Temporal Cloud console — all 5 workflows visible in the namespace**
+![Temporal Cloud](screenshots/temporalcloud.png)
+
 ## Architecture
 
 ```
