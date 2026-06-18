@@ -1,4 +1,4 @@
-# Temporal Order Processing
+# Temporal - Order Processing
 
 A TypeScript application demonstrating Temporal Cloud workflows with a React dashboard. Implements an order processing pipeline (validate → charge → fulfill → notify) with saga-pattern compensation on failure.
 
