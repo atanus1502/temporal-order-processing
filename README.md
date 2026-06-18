@@ -2,6 +2,17 @@
 
 A TypeScript application demonstrating Temporal Cloud workflows with a React dashboard. Implements an order processing pipeline (validate → charge → fulfill → notify) with saga-pattern compensation on failure.
 
+## Screenshots
+
+**Dashboard — live order stats and status table**
+![Dashboard](screenshots/01-dashboard.png)
+
+**Order form — product picker with quantity controls and running total**
+![Order form](screenshots/02-order-form.png)
+
+**Workflow detail — progress timeline for a completed order**
+![Workflow detail](screenshots/03-order-detail.png)
+
 ## Architecture
 
 ```
